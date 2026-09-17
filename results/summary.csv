@@ -1,0 +1,13 @@
+injury,sport,version,n,returned,median,low,high,back_by_180,back_by_270,back_by_365
+ACL tear,Football,recorded,306,274,212.0,196.0,217.0,22.2,83.3,92.6
+ACL tear,Football,bound,306,274,219.0,212.0,228.0,18.0,77.5,92.3
+ACL tear,NBA,recorded,30,22,359.0,324.0,446.0,0.0,7.4,53.7
+ACL tear,NBA,bound,30,22,331.0,264.0,377.0,25.0,36.3,68.1
+Achilles rupture,Football,recorded,45,42,183.0,158.0,205.0,46.3,84.9,97.5
+Achilles rupture,Football,bound,45,42,190.0,174.0,220.0,41.7,82.7,97.5
+Achilles rupture,NBA,recorded,22,13,357.0,299.0,588.0,0.0,11.1,64.3
+Achilles rupture,NBA,bound,22,13,339.0,218.0,399.0,25.8,37.2,68.6
+Meniscus tear,Football,recorded,50,50,71.0,56.0,99.0,86.0,98.0,98.0
+Meniscus tear,Football,bound,50,50,83.0,56.0,107.0,84.0,98.0,98.0
+Meniscus tear,NBA,recorded,48,48,115.0,56.0,193.0,60.4,89.6,100.0
+Meniscus tear,NBA,bound,48,48,53.0,47.0,69.0,93.8,97.9,100.0

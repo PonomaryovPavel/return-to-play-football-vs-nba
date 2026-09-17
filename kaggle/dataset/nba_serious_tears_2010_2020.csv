@@ -1,0 +1,101 @@
+player,injury,season,age,log_date,log_note,onset,team_at_injury,first_game_back,team_at_return,days_to_first_game,returned_by_2020_03_11,summer_return,earliest_possible_return
+Gani Lawal,ACL tear,2010,22.0,2011-01-06,torn ACL and partially torn MCL in right knee (out for season),2011-01-06,PHX,,,,False,False,
+David West,ACL tear,2010,30.0,2011-03-25,placed on IL with torn ACL in left knee (out for season),2011-03-24,NOH,2011-12-26,IND,277.0,True,True,2011-04-28
+Eric Maynor,ACL tear,2011,25.0,2012-01-08,placed on IL with torn ACL in right knee (out for season),2012-01-07,OKC,2012-11-01,OKC,299.0,True,True,2012-06-21
+Ricky Rubio,ACL tear,2011,21.0,2012-03-09,torn ACL in left knee (out for season),2012-03-09,MIN,2012-12-15,MIN,281.0,True,False,2012-12-15
+Derrick Rose,ACL tear,2011,23.0,2012-04-28,torn ACL in left knee (out for season),2012-04-28,CHI,2013-10-29,CHI,549.0,True,True,2013-04-17
+Iman Shumpert,ACL tear,2011,22.0,2012-04-28,torn lateral meniscus / ACL (CBC) in left knee (out for season),2012-04-28,NYK,2013-01-17,NYK,264.0,True,False,2013-01-17
+Baron Davis,ACL tear,2011,33.0,2012-05-06,"torn ACL, MCL, and patella tendon in right knee (out for season)",2012-05-06,NYK,,,,False,False,
+Brandon Rush,ACL tear,2012,27.0,2012-11-03,torn ACL in left knee (out for season),2012-11-02,GSW,2013-11-05,UTA,368.0,True,True,2013-05-16
+Josh Howard,ACL tear,2012,33.0,2012-12-20,torn ACL in right knee (out indefinitely),2012-12-20,MIN,,,,False,False,
+Lou Williams,ACL tear,2012,26.0,2013-01-19,placed on IL with torn ACL in right knee (out for season),2013-01-18,ATL,2013-11-15,ATL,301.0,True,True,2013-05-03
+Rajon Rondo,ACL tear,2012,27.0,2013-01-27,torn ACL in right knee (DNP),2013-01-25,BOS,2014-01-17,BOS,357.0,True,False,2014-01-17
+Leandro Barbosa,ACL tear,2012,30.0,2013-02-12,torn ACL in left knee (out for season),2013-02-11,BOS,2014-01-08,PHX,331.0,True,False,2014-01-08
+Danilo Gallinari,ACL tear,2012,24.0,2013-04-05,torn ACL in left knee (out for season),2013-04-04,DEN,2014-10-29,DEN,573.0,True,True,2014-04-16
+Nate Robinson,ACL tear,2013,30.0,2014-01-31,torn ACL in left knee (out indefinitely),2014-01-29,DEN,2014-10-29,DEN,273.0,True,True,2014-04-16
+J.J. Hickson,ACL tear,2013,25.0,2014-03-22,torn ACL in right knee (out indefinitely),2014-03-21,DEN,2014-11-09,DEN,233.0,True,True,2014-04-16
+Jabari Parker,ACL tear,2014,20.0,2014-12-16,torn ACL in left knee (out for season),2014-12-15,MIL,2015-11-04,MIL,324.0,True,True,2015-04-30
+Kendall Marshall,ACL tear,2014,23.0,2015-01-17,torn ACL in right knee (out for season),2015-01-15,MIL,2015-12-11,PHI,330.0,True,False,2015-12-11
+Tony Wroten Jr.,ACL tear,2014,22.0,2015-01-23,placed on IL with torn ACL in right knee (out for season),2015-01-23,PHI,2015-12-05,PHI,316.0,True,False,2015-12-05
+Dante Exum,ACL tear,2015,20.0,2015-08-06,torn ACL in left knee (out indefinitely),2015-08-06,UTA,2016-10-25,UTA,446.0,True,True,2016-04-13
+Jarrett Jack,ACL tear,2015,32.0,2016-01-03,torn ACL in right knee (out for season),2016-01-02,BKN,2017-02-25,NOP,420.0,True,False,2017-02-25
+Chris Andersen,ACL tear,2016,38.0,2016-12-16,torn ACL in right knee (out for season),2016-12-14,CLE,,,,False,False,
+Zach LaVine,ACL tear,2016,22.0,2017-02-03,torn ACL in left knee (out for season),2017-02-03,MIN,2018-01-13,CHI,344.0,True,False,2018-01-13
+Jabari Parker,ACL tear,2016,22.0,2017-02-08,torn ACL in left knee (out for season),2017-02-08,MIL,2018-02-02,MIL,359.0,True,False,2018-02-02
+Brandon Knight,ACL tear,2017,26.0,2017-07-25,torn ACL in left knee (out for season),2017-07-25,PHX,2018-12-13,HOU,506.0,True,False,2018-12-13
+Kristaps Porzingis,ACL tear,2017,22.0,2018-02-06,torn ACL in left knee (out for season),2018-02-06,NYK,2019-10-23,DAL,624.0,True,True,2019-04-10
+Dejounte Murray,ACL tear,2018,22.0,2018-10-17,placed on IL with torn ACL in right knee (out for season),2018-10-17,SAS,2019-10-23,SAS,371.0,True,True,2019-04-10
+Klay Thompson,ACL tear,2018,29.0,2019-06-14,torn ACL in left knee (out for season),2019-06-13,GSW,2022-01-09,GSW,941.0,False,False,2022-01-09
+DeMarcus Cousins,ACL tear,2019,29.0,2019-10-22,placed on IL recovering from surery on left knee to repair torn ACL,2019-10-22,GSW,2020-12-31,HOU,436.0,False,False,2020-12-31
+Max Strus,ACL tear,2019,24.0,2019-12-23,torn ACL in left knee (out for season),2019-12-23,CHI,2020-12-29,MIA,372.0,False,False,2020-12-29
+Jeremy Lamb,ACL tear,2019,28.0,2020-02-24,torn ACL in left knee (out for season),2020-02-23,IND,2021-01-20,IND,332.0,False,False,2021-01-20
+DeSagana Diop,Achilles rupture,2010,29.0,2011-01-03,placed on IL with ruptured right Achilles tendon (out for season),2010-12-31,CHA,2011-12-26,CHA,360.0,True,True,2011-04-13
+Darrell Arthur,Achilles rupture,2011,24.0,2011-12-20,ruptured right Achilles tendon (out for season),2011-12-20,MEM,2012-11-23,MEM,339.0,True,False,2012-11-23
+Chauncey Billups,Achilles rupture,2011,35.0,2012-02-07,torn left Achilles tendon (out for season),2012-02-06,LAC,2012-11-28,LAC,296.0,True,False,2012-11-28
+Elliot Williams,Achilles rupture,2012,24.0,2012-09-11,torn left Achilles tendon (out indefinitely),2012-09-11,POR,2013-11-20,PHI,435.0,True,True,2013-04-17
+Kobe Bryant,Achilles rupture,2012,34.0,2013-04-12,torn left Achilles tendon (out indefinitely),2013-04-12,LAL,2013-12-08,LAL,240.0,True,False,2013-12-08
+Jeff Taylor,Achilles rupture,2013,25.0,2013-12-21,torn right Achilles tendon (DNP),2013-12-20,CHA,2014-12-20,CHA,365.0,True,False,2014-12-20
+Xavier Henry,Achilles rupture,2014,24.0,2014-11-24,torn left Achilles tendon (DTD),2014-11-21,LAL,,,,False,False,
+Anderson Varejao,Achilles rupture,2014,32.0,2014-12-26,surgery to repair torn left Achilles tendon (out for season),2014-12-23,CLE,2015-10-27,CLE,308.0,True,True,2015-06-16
+Brandon Jennings,Achilles rupture,2014,25.0,2015-01-24,torn left Achilles (out for season),2015-01-24,DET,2015-12-29,DET,339.0,True,False,2015-12-29
+Wes Matthews Jr.,Achilles rupture,2014,28.0,2015-03-06,torn left Achilles tendon (out for season),2015-03-05,POR,2015-10-28,DAL,237.0,True,True,2015-04-29
+Mario Chalmers,Achilles rupture,2015,30.0,2016-03-09,ruptured right Achilles tendon (out for season),2016-03-09,MEM,2017-10-18,MEM,588.0,True,True,2017-04-12
+Rudy Gay,Achilles rupture,2016,30.0,2017-01-18,torn left Achilles tendon (out for season),2017-01-18,SAC,2017-10-18,SAS,273.0,True,True,2017-04-12
+Sheldon Mac,Achilles rupture,2017,25.0,2017-10-09,torn Achilles tendon (out for season),2017-10-09,WAS,,,,False,False,
+DeMarcus Cousins,Achilles rupture,2017,27.0,2018-01-26,torn left Achilles tendon (out for season),2018-01-26,NOP,2019-01-18,GSW,357.0,True,False,2019-01-18
+C.J. Wilcox,Achilles rupture,2018,,2018-09-21,placed on IL with torn right Achilles tendon (out for season),2018-09-21,ORL,,,,False,False,
+John Wall,Achilles rupture,2018,28.0,2018-12-28,placed on IL with torn left Achilles tendon (out for season),2018-12-26,WAS,2020-12-31,HOU,736.0,False,False,2020-12-31
+Jose Barea,Achilles rupture,2018,35.0,2019-01-12,torn right Achilles tendon (out for season),2019-01-11,DAL,2019-11-06,DAL,299.0,True,True,2019-04-10
+Kevin Durant,Achilles rupture,2018,30.0,2019-06-12,torn right Achilles tendon (out for season),2019-06-10,GSW,2020-12-22,BKN,561.0,False,False,2020-12-22
+Darius Miller,Achilles rupture,2019,30.0,2019-10-21,torn right Achilles tendon (out for season),2019-10-21,NOP,2021-01-04,OKC,441.0,False,False,2021-01-04
+Rodney Hood,Achilles rupture,2019,27.0,2019-12-07,torn left Achilles tendon (out for season),2019-12-06,POR,2020-12-23,POR,383.0,False,False,2020-12-23
+David Nwaba,Achilles rupture,2019,27.0,2019-12-20,torn right Achilles tendon (out for season),2019-12-19,BKN,2020-12-26,HOU,373.0,False,False,2020-12-26
+Dwight Powell,Achilles rupture,2019,28.0,2020-01-22,torn right Achilles tendon (out for season),2020-01-21,DAL,2020-12-23,DAL,337.0,False,False,2020-12-23
+Theo Ratliff,Meniscus tear,2010,38.0,2010-11-16,placed on IL recovering from arthroscopic surgery on left knee to remove part of torn meniscus,2010-11-16,LAL,2011-03-31,LAL,135.0,True,False,2011-03-31
+Leon Powe,Meniscus tear,2010,27.0,2011-01-07,placed on IL recovering from surgery on right knee to repair torn meniscus (out indefinitely),2011-01-05,CLE,2011-03-12,MEM,66.0,True,False,2011-03-12
+Matt Barnes,Meniscus tear,2010,31.0,2011-01-11,surgery on right knee to repair torn lateral meniscus (out indefinitely),2011-01-11,LAL,2011-03-06,LAL,54.0,True,False,2011-03-06
+Marcus Camby,Meniscus tear,2010,37.0,2011-01-20,arthroscopic surgery on left knee to repair torn meniscus,2011-01-17,POR,2011-02-27,POR,41.0,True,False,2011-02-27
+Tyrus Thomas,Meniscus tear,2010,24.0,2011-01-20,placed on IL with torn meniscus in left knee,2011-01-18,CHA,2011-03-11,CHA,52.0,True,False,2011-03-11
+Eric Bledsoe,Meniscus tear,2011,22.0,2011-10-07,surgery on right knee to repair torn lateral meniscus (out indefinitely),2011-10-07,LAC,2012-01-30,LAC,115.0,True,False,2012-01-30
+Reggie Williams,Meniscus tear,2011,25.0,2011-12-16,torn meniscus in left knee (out indefinitely),2011-12-16,GSW,2012-01-31,CHA,46.0,True,False,2012-01-31
+Grant Hill,Meniscus tear,2011,39.0,2012-03-30,surgery on right knee to repair torn meniscus,2012-03-30,PHX,2012-04-13,PHX,14.0,True,False,2012-04-13
+Jeremy Lin,Meniscus tear,2011,23.0,2012-04-02,surgery on left knee to repair torn meniscus (out for season),2012-04-02,NYK,2012-10-31,HOU,212.0,True,True,2012-05-09
+Earl Watson,Meniscus tear,2011,33.0,2012-04-09,torn medial meniscus (P) / strained left calf (CBC) (DNP),2012-04-08,UTA,2012-11-23,UTA,229.0,True,False,2012-11-23
+Al Harrington,Meniscus tear,2011,32.0,2012-05-16,surgery on right knee to repair torn meniscus (out indefinitely),2012-05-16,DEN,2013-02-26,ORL,286.0,True,False,2013-02-26
+Blake Griffin,Meniscus tear,2012,24.0,2012-07-12,torn meniscus in left knee (out indefinitely),2012-07-12,LAC,2012-10-31,LAC,111.0,True,False,2012-10-31
+Robin Lopez,Meniscus tear,2012,25.0,2012-08-05,surgery on left knee to repair medial meniscus,2012-08-05,PHX,2012-10-31,NOH,87.0,True,False,2012-10-31
+Ronnie Brewer,Meniscus tear,2012,28.0,2012-09-07,surgery on left knee to repair torn meniscus (out indefinitely),2012-09-07,CHI,2012-11-02,NYK,56.0,True,False,2012-11-02
+Chase Budinger,Meniscus tear,2012,25.0,2012-11-11,torn meniscus in left knee (out indefinitely),2012-11-10,MIN,2013-03-21,MIN,131.0,True,False,2013-03-21
+Ron Artest,Meniscus tear,2012,33.0,2013-03-27,torn meniscus in left knee (out indefinitely),2013-03-25,LAL,2013-04-09,LAL,15.0,True,False,2013-04-09
+Russell Westbrook,Meniscus tear,2012,24.0,2013-04-26,torn lateral meniscus in right knee (out indefinitely),2013-04-24,OKC,2013-11-03,OKC,193.0,True,True,2013-05-15
+J.R. Smith,Meniscus tear,2013,28.0,2013-07-15,surgery on left knee to repair tear in lateral meniscus (out indefinitely),2013-07-15,NYK,2013-11-10,NYK,118.0,True,False,2013-11-10
+Maalik Wayns,Meniscus tear,2013,23.0,2013-10-16,surgery on left knee to repair torn meniscus (out indefinitely) (date approximate),2013-10-16,LAC,2014-01-08,LAC,84.0,True,False,2014-01-08
+Solomon Jones,Meniscus tear,2013,29.0,2013-11-01,torn lateral meniscus in left knee (DNP),2013-10-30,ORL,2013-11-16,ORL,17.0,True,False,2013-11-16
+Derrick Rose,Meniscus tear,2013,25.0,2013-11-23,torn meniscus in right knee (out for season),2013-11-22,CHI,2014-10-29,CHI,341.0,True,True,2014-04-29
+Eric Bledsoe,Meniscus tear,2013,24.0,2014-01-10,arthroscopic surgery on right knee to repair meniscus cartilage,2014-01-10,PHX,2014-03-12,PHX,61.0,True,False,2014-03-12
+Gal Mekel,Meniscus tear,2013,26.0,2014-01-17,arthroscopic surgery on right knee to repair torn lateral meniscus (out indefinitely),2014-01-17,DAL,2014-03-11,DAL,53.0,True,False,2014-03-11
+Carl Landry,Meniscus tear,2013,30.0,2014-02-28,placed on IL with torn medial meniscus in right knee (out for season),2014-02-25,SAC,2014-10-29,SAC,246.0,True,True,2014-04-16
+Gerald Wallace,Meniscus tear,2013,31.0,2014-02-28,torn meniscus in left knee (out indefinitely),2014-02-26,BOS,2014-11-03,BOS,250.0,True,True,2014-04-16
+Patrick Beverley,Meniscus tear,2013,25.0,2014-03-28,right knee injury (DTD) (CBC) / torn meniscus in right knee (out indefinitely),2014-03-27,HOU,2014-04-12,HOU,16.0,True,False,2014-04-12
+Doug McDermott,Meniscus tear,2014,23.0,2014-12-02,placed on IL with torn meniscus in right knee,2014-11-30,CHI,2015-01-22,CHI,53.0,True,False,2015-01-22
+Josh McRoberts,Meniscus tear,2014,28.0,2014-12-10,torn meniscus in right knee (out for season),2014-12-09,MIA,2015-10-28,MIA,323.0,True,True,2015-04-15
+Danilo Gallinari,Meniscus tear,2014,26.0,2014-12-21,torn meniscus in right knee (out indefinitely),2014-12-20,DEN,2015-01-23,DEN,34.0,True,False,2015-01-23
+Kemba Walker,Meniscus tear,2014,25.0,2015-01-24,placed on IL with torn lateral meniscus in left knee,2015-01-23,CHA,2015-03-11,CHA,47.0,True,False,2015-03-11
+Derrick Rose,Meniscus tear,2014,26.0,2015-02-24,torn medial meniscus in right knee (out indefinitely),2015-02-23,CHI,2015-04-08,CHI,44.0,True,False,2015-04-08
+Eric Bledsoe,Meniscus tear,2015,26.0,2015-12-29,surgery on left knee to repair torn meniscus (out for season),2015-12-26,PHX,2016-10-26,PHX,305.0,True,True,2016-04-13
+Al Jefferson,Meniscus tear,2015,31.0,2015-12-30,torn lateral meniscus in right knee (out indefinitely),2015-12-28,CHA,2016-02-19,CHA,53.0,True,False,2016-02-19
+Jahlil Okafor,Meniscus tear,2015,20.0,2016-03-22,arthroscopic surgery on right knee to repair torn meniscus (out for season),2016-03-22,PHI,2016-10-26,PHI,218.0,True,True,2016-04-13
+Chandler Parsons,Meniscus tear,2015,27.0,2016-03-25,surgery on right knee to repair medial meniscus (out for season),2016-03-25,DAL,2016-11-06,MEM,226.0,True,True,2016-04-25
+Kemba Walker,Meniscus tear,2015,26.0,2016-05-09,surgery on left knee to repair torn meniscus (out for season),2016-05-09,CHA,2016-10-26,CHA,170.0,True,False,2016-10-26
+Ian Mahinmi,Meniscus tear,2016,30.0,2016-10-15,surgery on left knee to repair torn medial meniscus (out indefinitely),2016-10-15,IND,2016-11-26,WAS,42.0,True,False,2016-11-26
+Reggie Bullock,Meniscus tear,2016,26.0,2016-11-25,placed on IL with torn meniscus in left knee,2016-11-23,DET,2017-01-13,DET,51.0,True,False,2017-01-13
+Ramon Sessions,Meniscus tear,2016,31.0,2017-02-03,torn lateral meniscus in left knee (out indefinitely),2017-02-01,CHA,2017-10-19,NYK,260.0,True,True,2017-04-11
+Joel Embiid,Meniscus tear,2016,23.0,2017-03-01,placed on IL with torn meniscus in left knee (out for season),2017-03-01,PHI,2017-10-18,PHI,231.0,True,True,2017-04-12
+Chandler Parsons,Meniscus tear,2016,28.0,2017-03-13,torn meniscus in left knee (out for season),2017-03-11,MEM,2017-10-18,MEM,221.0,True,True,2017-04-27
+Derrick Rose,Meniscus tear,2016,28.0,2017-03-29,placed on IL with torn meniscus in left knee / sore right foot (out for season),2017-03-27,NYK,2017-10-17,CLE,204.0,True,True,2017-04-12
+Robert Covington,Meniscus tear,2016,26.0,2017-03-30,torn meniscus in right knee (out for season),2017-03-28,PHI,2017-10-18,PHI,204.0,True,True,2017-04-12
+Alan Williams,Meniscus tear,2017,25.0,2017-09-25,surgery on right knee to repair torn meniscus (out indefinitely),2017-09-25,PHX,2018-03-26,PHX,182.0,True,False,2018-03-26
+Patrick Beverley,Meniscus tear,2017,29.0,2017-11-22,arthroscopic surgery on right knee to repair lateral meniscus (out for season),2017-11-20,LAC,2018-10-17,LAC,331.0,True,True,2018-04-11
+Cody Zeller,Meniscus tear,2017,25.0,2017-12-07,torn meniscus in left knee (out indefinitely),2017-12-06,CHA,2018-02-02,CHA,58.0,True,False,2018-02-02
+Jimmy Butler,Meniscus tear,2017,28.0,2018-02-25,surgery on right knee to repair meniscus injury,2018-02-23,MIN,2018-04-06,MIN,42.0,True,False,2018-04-06
+Daniel Theis,Meniscus tear,2017,26.0,2018-03-12,torn meniscus in left knee (out for season),2018-03-11,BOS,2018-10-16,BOS,219.0,True,True,2018-05-27

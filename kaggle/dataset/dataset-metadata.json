@@ -1,0 +1,16 @@
+{
+  "title": "NBA ACL, Achilles and Meniscus Tears 2010-2020",
+  "subtitle": "100 tears with the first game played afterwards, checked against box scores",
+  "id": "ponomaryovpavel/nba-acl-achilles-meniscus-tears-2010-2020",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "basketball",
+    "health",
+    "sports"
+  ],
+  "description": "Every Achilles rupture, ACL tear and meniscus tear logged for NBA players from 2010/11 to 2019/20, with the first game each player played afterwards.\n\nThe injury comes from the Pro Sports Transactions log (also on Kaggle as ghopkins/nba-injuries-2010-2018). A tear counts only when one note names both the body part and the tear. The return comes from player box scores 2010-2024 (NocturneBear/NBA-Data-2010-2024, MIT), not from the log: in the log, waivers look like comebacks and missing records glue separate absences together.\n\n### nba_serious_tears_2010_2020.csv\n\n| column | meaning |\n|---|---|\n| player, injury, season, age | who, what, NBA season (July to June), age that season |\n| log_date, log_note | first log entry that names the tear |\n| onset | the game in which the player got hurt, or log_date if he had not played in the three days before |\n| team_at_injury, team_at_return | team abbreviations from the box scores |\n| first_game_back | first regular-season or playoff game played after onset, up to June 2024 |\n| days_to_first_game | days from onset to first_game_back |\n| returned_by_2020_03_11 | whether the return came before the NBA suspended play |\n| summer_return | returned within 21 days of his team's opener, before March 2020 |\n| earliest_possible_return | for summer returns, his team's last game of the previous season; otherwise first_game_back |\n\nTears before a player's first NBA game are left out. A return after October 2020 can include later injuries that the log no longer covers: Klay Thompson tore his Achilles in November 2020 while recovering from his ACL.\n\n### transaction_log_method_audit.csv\n\nThe 54 Achilles, ACL and meniscus episodes that a transaction-log-only method produced for 2014/15 to 2019/20, each with a verdict against the box scores. 23 hold up.\n\nAnalysis and code: https://github.com/PonomaryovPavel/return-to-play-football-vs-nba\n"
+}
